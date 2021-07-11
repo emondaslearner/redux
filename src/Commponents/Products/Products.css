@@ -1,0 +1,19 @@
+.product{
+    border-radius:10px;
+    border:2px solid gray;
+    margin:10px;
+}
+h2,h3{
+    text-align:center;
+}
+.button{
+    padding:10px 20px;
+    background-color:tomato;
+    border:none;
+    border-radius:5px;
+    display:block;
+    margin: 20px auto;
+    cursor: pointer;
+    box-shadow:2px 5px 10px gray;
+    color:white;
+}
